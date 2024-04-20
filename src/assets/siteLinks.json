@@ -1,0 +1,27 @@
+[
+  {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://nav.john.top/"
+  },
+  {
+    "icon": "Blog",
+    "name": "John's Blog",
+    "link": "https://www.johntao.top/"
+  },
+  {
+    "icon": "Cloud",
+    "name": "网盘 (IPv6)",
+    "link": "https://icloud.foreseestudio.top"
+  },
+  {
+    "icon": "Book",
+    "name": "Elibrary (IPv6)",
+    "link": "https://ebook.foreseestudio.top/"
+  },
+  {
+    "icon": "LaptopCode",
+    "name": "站点监测",
+    "link": "https://status.orionai.top/"
+  }
+]
