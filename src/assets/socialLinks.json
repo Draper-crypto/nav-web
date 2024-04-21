@@ -6,15 +6,27 @@
     "url": "https://github.com/Draper-crypto/"
   },
   {
-    "name": "Email",
-    "icon": "/images/icon/email.png",
-    "tip": "来封 Email ~",
-    "url": "mailto:johntao2004@outlook.com"
+    "name": "知乎",
+    "icon": "/images/icon/zhihu.png",
+    "tip": "去 知乎 看看",
+    "url": "https://www.zhihu.com/people/draper-crypto"
+  },
+  {
+    "name": "CSDN",
+    "icon": "/images/icon/csdn.png",
+    "tip": "去 CSDN 看看",
+    "url": "https://blog.csdn.net/Suprman88"
   },
   {
     "name": "Twitter",
     "icon": "/images/icon/twitter.png",
     "tip": "你懂的 ~",
     "url": "https://twitter.com/cryptodraper1"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "来封 Email ~",
+    "url": "mailto:johntao2004@outlook.com"
   }
 ]
