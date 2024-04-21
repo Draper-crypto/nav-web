@@ -18,7 +18,7 @@
         </div>
         <div class="version">
           <!--此处手动修改更新日志-->
-          <div class="num">v&nbsp;1.0.0</div>
+          <div class="num">v&nbsp;2.0</div>
         </div>
         <el-card class="update">
           <template #header>
@@ -73,10 +73,11 @@ const siteUrl = computed(() => {
 // 更新日志
 const upData = reactive({
   new: [
-    "修改底部内容",
-    "修改设置页更新日志",
+    "更新全部Logo样式",
+    "新增CSDN、知乎的转跳链接",
+    "优化音乐表单",
   ],
-  fix: [""],
+  fix: ["修复所有显示错误，完成全部功能调试"],
 });
 
 // 跳转源代码仓库
