@@ -37,9 +37,9 @@ publishDir            = "docs"					# 站点静态文件保存目录
     # 网站的favicon图标
     favicon           = "assets/images/favicon.ico"
     # 搜索页面浅色背景图
-    searchImageL      = "assets/images/bg-dna.jpg"
+    searchImageL      = "assets/images/bg-a.jpg"
     # 搜索页面深色背景图
-    searchImageD      = "assets/images/bg-dna.jpg"
+    searchImageD      = "assets/images/bg-b.jpg"
     # 扩展按钮（亮主题）
     logoExpandLight   = "assets/images/bt8-expand-light.png"
     # 扩展按钮（暗主题）
