@@ -3,14 +3,17 @@
   link: "./"
 
 - item: 作者
-  icon: fa fa-book
-  link: www.johntao.top
+  icon: fa fa-user-secret
+  link: https://blog.johntao.top/about/zh/
+
+- item: 博客
+  icon: fa fa-blog
+  link: https://blog.johntao.top/
 
 - item: 关于
   icon: fa fa-cog
   link: ""
   list:
-    - name: 教程
-      url: https://github.com/shenweiyan/Knowledge-Garden/discussions/10
-    - name: 源码
-      url: https://github.com/shenweiyan/WebStack-Hugo
+    - name: 图标
+      icon: fab fa-font-awesome
+      link: "https://fontawesome.com/"
