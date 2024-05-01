@@ -31,13 +31,22 @@ publishDir            = "docs"					# 站点静态文件保存目录
 [params.qweather]
     key = "085791e805a24491b43b06cf58ab31e7"
 
+# 图片参数配置
+# 以下配置用于定义应用中不同场景下使用的图片资源
 [params.images]
+    # 网站的favicon图标
     favicon           = "assets/images/favicon.ico"
-    searchImageL      = "assets/images/bg-dna.jpg"		# 搜索部分浅色背景图
-    searchImageD      = "assets/images/bg-dna.jpg"		# 搜索部分深色背景图
+    # 搜索页面浅色背景图
+    searchImageL      = "assets/images/bg-dna.jpg"
+    # 搜索页面深色背景图
+    searchImageD      = "assets/images/bg-dna.jpg"
+    # 扩展按钮（亮主题）
     logoExpandLight   = "assets/images/bt8-expand-light.png"
+    # 扩展按钮（暗主题）
     logoExpandDark    = "assets/images/bt8-expand-dark.png"
+    # 收缩按钮（亮主题）
     logoCollapseLight = "assets/images/favicon.png"
+    # 收缩按钮（暗主题）
     logoCollapseDark  = "assets/images/favicon.png"
     
 [markup.goldmark.renderer]
