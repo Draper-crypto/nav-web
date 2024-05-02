@@ -1,113 +1,119 @@
 ---
 - taxonomy: 主站推荐
   icon: far fa-star
-  links:
-    - title: John Tao's Home
-      logo: https://blog.johntao.top/img/face.jpg
-      url: https://www.johntao.top/
-      description: 起始页
-    - title: John Tao's Nav
-      logo: https://blog.johntao.top/img/face.jpg
-      url: https://nav.Johntao.top
-      description: 丰富的导航站
-    - title: John Tao's Blog
-      logo: https://blog.johntao.top/img/face.jpg
-      url: https://blog.johntao.top/
-      description: 站长的博客
-    - title: OrionAI-CN
-      logo: https://typora-img-1301299232.cos.ap-shanghai.myqcloud.com/img2/202402261521171.png
-      url: https://www.orionai.top/
-    - title: OrionAI-EN
-      logo: https://typora-img-1301299232.cos.ap-shanghai.myqcloud.com/img2/202402261521171.png
-      url: https://en.orionai.top/
-    - title: OrionAI 论坛
-      logo: https://typora-img-1301299232.cos.ap-shanghai.myqcloud.com/img2/202402261521171.png
-      url: https://foreseestudioblog.top/
-      description: 登高不傲，居低不怨
-  # - title: 关于我
-    #   logo: 关于我.ico
-    #   url: https://blog.johntao.top/about/zh/
-    #   qrcode: assets/images/my.png
-    #   description: 站长的个人介绍
-
-- taxonomy: 学习服务
-  icon: fas fa-laptop-code fa-lg
   list:
-    - term: Web应用
+    - term: 站长相关
       links:
-        - title: 编程词典
-          url: http://dict.code-nav.cn/
-          logo: 编程词典.svg
-          description: 编程语言相关知识查询
+        - title: John Tao's Home
+          logo: https://blog.johntao.top/img/face.jpg
+          url: https://www.johntao.top/
+          description: 起始页
+        - title: John Tao's Nav
+          logo: https://blog.johntao.top/img/face.jpg
+          url: https://nav.Johntao.top
+          description: 丰富的导航站
+        - title: John Tao's Blog
+          logo: https://blog.johntao.top/img/face.jpg
+          url: https://blog.johntao.top/
+          description: 站长的博客
 
-    - term: 搭建服务
+    - term: 开源相关
       links:
-        - title: 阿里云
-          logo: 阿里云.ico
-          url: https://www.aliyun.com/
-          description: 上云就上阿里云
-        - title: Vercel
-          logo: vercel.ico
-          url: https://vercel.com/
-          description: 轻松地构建、部署和扩展 Web 应用程序。GitHub拉取、
-        - title: GitHub
-          logo: github.ico
-          url: https://github.com/
-          description: 最热门知名的开源网站
+        - title: OrionAI-CN
+          logo: https://typora-img-1301299232.cos.ap-shanghai.myqcloud.com/img2/202402261521171.png
+          url: https://www.orionai.top/
+        - title: OrionAI-EN
+          logo: https://typora-img-1301299232.cos.ap-shanghai.myqcloud.com/img2/202402261521171.png
+          url: https://en.orionai.top/
+        - title: OrionAI 论坛
+          logo: https://typora-img-1301299232.cos.ap-shanghai.myqcloud.com/img2/202402261521171.png
+          url: https://foreseestudioblog.top/
+          description: 登高不傲，居低不怨
 
-    - term: 办公学习
-      links:
-        - title: 知乎
-          logo: csdn.ico
-          url: https://www.zhihu.com/
-          description: 有问题，就会有答案
-        - title: CSDN
-          logo: csdn.ico
-          url: https://www.csdn.net/
-          description: 中国最大的专业技术社区
-        - title: 微信公众平台
-          logo: csdn.ico
-          url: https://mp.weixin.qq.com/
-          description: 再小的个体,也有自己的品牌
-        - title: Paperpass
-          logo: paperpass.ico
-          url: https://www.paperpass.com/
-          description: 论文查重，每天免费一篇
-        
+- taxonomy: 办公学习
+  icon: fa fa-briefcase
+  links:
+    - title: 知乎
+      logo: zhihu.svg
+      url: https://www.zhihu.com/
+      description: 有问题，就会有答案
+    - title: CSDN
+      logo: csdn.ico
+      url: https://www.csdn.net/
+      description: 中国最大的专业技术社区
+    - title: 微信公众平台
+      logo: weixin.svg
+      url: https://mp.weixin.qq.com/
+      description: 再小的个体,也有自己的品牌
+    - title: 微信读书
+      logo: weixin.svg
+      url: https://weread.qq.com/
+      description: 书中自有黄金屋
+    - title: 在线图书馆
+      logo: book-solid.svg
+      url: https://ebook.foreseestudio.top/
+      description: IPV6站点
+    - title: Paperpass
+      logo: paperpass.ico
+      url: https://www.paperpass.com/
+      description: 论文查重，每天免费一篇
 
+- taxonomy: 搭建服务
+  icon: fa fa-code
+  links:
+    - title: 阿里云
+      logo: aliyun.png
+      url: https://www.aliyun.com/
+      description: 上云就上阿里云
+    - title: Vercel
+      logo: vercel.ico
+      url: https://vercel.com/
+      description: 轻松地构建、部署和扩展 Web 应用程序。GitHub拉取、
+    - title: GitHub
+      logo: github.ico
+      url: https://github.com/
+      description: 最热门知名的开源网站
 
-# - taxonomy: 素材资源
-#   icon: far fa-folder-open fa-lg
-#   list:
-#     - term: 图标素材
-#       links:
-#         - title: Aconvert
-#           logo: ac.ico
-#           url: https://www.aconvert.com/
-#           description: 图片转化为ico格式         
-#      - term: 字体资源
-#        links:
-#         - title: 第一字体
-#           url: https://www.diyiziti.com/
-#           logo: diyi.ico
-#           description: 在线字体转换编辑生成
-          
+- taxonomy: 网盘服务
+  icon: fa fa-cloud
+  links:
+    - title: 阿里网盘
+      logo: aliyun.png
+      url: https://www.alipan.com/sign/in
+      description: 备份无忧，整理有序
+    - title: 私有网盘
+      logo: cloud-solid.svg
+      url: https://icloud.foreseestudio.top/prv/login.html
+      description: IPV6站点
+    - title: 资源小站
+      logo: cloud-arrow-down-solid.svg
+      url: https://yunpan1.cc/
+      description: 欢迎来到云盘资源分享社区
+    - title: 资源共享站
+      logo: cloud-arrow-down-solid.svg
+      url: https://pan666.net/
+      description: 人人为我，我为人人
+
 - taxonomy: 世界互联
-  icon: fab fa-app-store-ios fa-lg
+  icon: fa fa-paper-plane
   list:
     - term: 社交媒体
       links:
         - title: X
           url: https://twitter.com/
-          logo: itu.ico
+          logo: twitter.svg
           description: 尽是新鲜事
         - title: Youtube
           url: https://www.tiktok.com
-          logo: itu.ico
+          logo: youtube.ico
           description: 尽是新鲜事
+        - title: Telegram
+          url: https://web.telegram.org/a/
+          logo: ss-kexueshangwang.png
+          description: 跨平台即时通讯
         - title: TikTok
           url: tiktok.com
-          logo: itu.ico
+          logo: tiktok.svg
           description: 尽是新鲜事
         - title: 接码平台
           url: https://sms-activate.org/
@@ -129,83 +135,77 @@
       links:
         - title: OneKey Card
           url: https://card.onekey.so/
-          logo: ss-kexueshangwang.png
+          logo: bitcoin.svg
           description: 区块链钱包
-
-    # - term: 磁力搜索
-    #   links:
-    #     - title: 磁力猫
-    #       url: https://xn--tfrs17es0d.xyz/
-    #       logo: cilimao.ico
-    #       description: 磁力猫搜索
-
 
 - taxonomy: ChatGPT
   icon: fas fa-robot fa-lg
-  list:
-    - term: AI应用
-      links:
-        - title: ChatGPT
-          url: https://chat.openai.com/
-          logo: newzone.ico
-          description: ChatGPT
-        - title: Newzone
-          url: https://ai.newzone.top/
-          logo: newzone.ico
-          description: ChatGPT提示词收集
-        - title: Mirai
-          url: https://mirai.mamoe.net/
-          logo: mirai.ico
-          description: QQ开源机器人框架
-        - title: 秘塔
-          url: https://xiezuocat.com/
-          logo: mita.ico
-          description: 秘塔写作猫，帮助文案编写
-        - title: ChatPDF
-          url: https://www.chatpdf.com/
-          logo: chatpdf.ico
-          description: Ai识别PDF内容并且发起对话
-        - title: Huggingface
-          url: https://huggingface.co/spaces/stabilityai/stable-diffusion
-          logo: hugging.svg
-          description: stable-diffusion-webui-2.1
-        - title: Webui-colab
-          url: https://github.com/camenduru/stable-diffusion-webui-colab
-          logo: colab.ico
-          description: stable-diffusion-webui谷歌云部署
-        - title: Civitai
-          url: https://civitai.com/
-          logo: civitai.ico
-          description: Ai绘画训练模型
-        - title: Picrew
-          url: https://picrew.me/en
-          logo: picrew.ico
-          description: Ai画头像
-        - title: BibiGPT
-          url: https://b.jimmylv.cn/
-          logo: bibigpt.ico
-          description: Ai一键总结视频内容
-        - title: 图片放大
-          url: https://bigjpg.com/
-          logo: bigjpg.ico
-          description: Ai智能图片放大
-        - title: 高清修复
-          url: https://jpghd.com/
-          logo: jpghd.ico
-          description: Ai高清修复图片
-        - title: Mindshow
-          url: https://mindshow.fun/
-          logo: mindshow.svg
-          description: 导入markdown结合chatgpt写作PPT
-        - title: lalal
-          url: https://www.lalal.ai/
-          logo: lalal.ico
-          description: 智能人声与音乐分离
-        - title: Vega Ai
-          url: https://rightbrain.art/
-          logo: vega.ico
-          description: AI图像生成AI创作
-        - title: Booltool
-          url: https://booltool.boolv.tech/
-          logo: booltool.ico
-          description: 智能处理图像/视频处理
+  links:
+    - title: ChatGPT
+      url: https://chat.openai.com/
+      logo: chatgpt.ico
+      description: ChatGPT
+    - title: Newzone
+      url: https://ai.newzone.top/
+      logo: newzone.ico
+      description: ChatGPT提示词收集
+    - title: Mirai
+      url: https://mirai.mamoe.net/
+      logo: mirai.ico
+      description: QQ开源机器人框架
+    - title: 秘塔
+      url: https://xiezuocat.com/
+      logo: mita.ico
+      description: 秘塔写作猫，帮助文案编写
+    - title: ChatPDF
+      url: https://www.chatpdf.com/
+      logo: chatpdf.ico
+      description: Ai识别PDF内容并且发起对话
+    - title: Huggingface
+      url: https://huggingface.co/spaces/stabilityai/stable-diffusion
+      logo: hugging.svg
+      description: stable-diffusion-webui-2.1
+    - title: Webui-colab
+      url: https://github.com/camenduru/stable-diffusion-webui-colab
+      logo: colab.ico
+      description: stable-diffusion-webui谷歌云部署
+    - title: Civitai
+      url: https://civitai.com/
+      logo: civitai.ico
+      description: Ai绘画训练模型
+    - title: Picrew
+      url: https://picrew.me/en
+      logo: picrew.ico
+      description: Ai画头像
+    - title: BibiGPT
+      url: https://b.jimmylv.cn/
+      logo: bibigpt.ico
+      description: Ai一键总结视频内容
+    - title: 图片放大
+      url: https://bigjpg.com/
+      logo: gamma.png
+      description: Ai智能图片放大
+    - title: 高清修复
+      url: https://jpghd.com/
+      logo: jpghd.ico
+      description: Ai高清修复图片
+    - title: Mindshow
+      url: https://mindshow.fun/
+      logo: mindshow.svg
+      description: 导入markdown结合chatgpt写作PPT
+    - title: lalal
+      url: https://www.lalal.ai/
+      logo: lalal.ico
+      description: 智能人声与音乐分离
+    - title: Vega Ai
+      url: https://rightbrain.art/
+      logo: vega.ico
+      description: AI图像生成AI创作
+    - title: Booltool
+      url: https://booltool.boolv.tech/
+      logo: gamma.png
+      description: 智能处理图像/视频处理
+    - title: TTS-文本转语音
+      url: https://www.text-to-speech.cn/
+      logo: gamma.png
+      description: 文本转语音
