@@ -54,7 +54,7 @@
       url: https://ebook.foreseestudio.top/
       description: IPV6站点
     - title: Paperpass
-      logo: paperpass.ico
+      logo: magnifying-glass-solid.svg
       url: https://www.paperpass.com/
       description: 论文查重，每天免费一篇
 
@@ -167,7 +167,7 @@
       description: stable-diffusion-webui-2.1
     - title: Webui-colab
       url: https://github.com/camenduru/stable-diffusion-webui-colab
-      logo: colab.ico
+      logo: gamma.png
       description: stable-diffusion-webui谷歌云部署
     - title: Civitai
       url: https://civitai.com/
@@ -179,7 +179,7 @@
       description: Ai画头像
     - title: BibiGPT
       url: https://b.jimmylv.cn/
-      logo: bibigpt.ico
+      logo: gamma.png
       description: Ai一键总结视频内容
     - title: 图片放大
       url: https://bigjpg.com/
@@ -191,15 +191,15 @@
       description: Ai高清修复图片
     - title: Mindshow
       url: https://mindshow.fun/
-      logo: mindshow.svg
+      logo: gamma.png
       description: 导入markdown结合chatgpt写作PPT
     - title: lalal
       url: https://www.lalal.ai/
-      logo: lalal.ico
+      logo: gamma.png
       description: 智能人声与音乐分离
     - title: Vega Ai
       url: https://rightbrain.art/
-      logo: vega.ico
+      logo: gamma.png
       description: AI图像生成AI创作
     - title: Booltool
       url: https://booltool.boolv.tech/

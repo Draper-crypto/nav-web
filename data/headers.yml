@@ -12,7 +12,7 @@
 
 - item: 关于
   icon: fa fa-cog
-  link: ""
+  link: "#"
   list:
     - name: 图标
       link: "https://fontawesome.com/v4/icons/#new"
