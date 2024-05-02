@@ -7689,27 +7689,6 @@
                                     </li>
                                 </ul>
                             </div>
-                            <div class="search-group group-f"><span class="type-text text-muted">求职</span>
-                                <ul class="search-type">
-                                    <li><input hidden="" type="radio" name="type2" id="m_type-zhaopin"
-                                            value="https://sou.zhaopin.com/jobs/searchresult.ashx?kw="
-                                            data-placeholder="智联招聘">
-                                        <label for="m_type-zhaopin"><span class="text-muted">智联招聘</span></label>
-                                    </li>
-                                    <li><input hidden="" type="radio" name="type2" id="m_type-51job"
-                                            value="https://search.51job.com/?" data-placeholder="前程无忧">
-                                        <label for="m_type-51job"><span class="text-muted">前程无忧</span></label>
-                                    </li>
-                                    <li><input hidden="" type="radio" name="type2" id="m_type-lagou"
-                                            value="https://www.lagou.com/jobs/list_" data-placeholder="拉钩网">
-                                        <label for="m_type-lagou"><span class="text-muted">拉钩网</span></label>
-                                    </li>
-                                    <li><input hidden="" type="radio" name="type2" id="m_type-liepin"
-                                            value="https://www.liepin.com/zhaopin/?key=" data-placeholder="猎聘网">
-                                        <label for="m_type-liepin"><span class="text-muted">猎聘网</span></label>
-                                    </li>
-                                </ul>
-                            </div>
                         </div>
                         <form action="https://nav.iowen.cn?s=" method="get" target="_blank" class="super-search-fm">
                             <input type="text" id="m_search-text" class="form-control smart-tips search-key" zhannei=""
@@ -7866,7 +7845,7 @@
             var RunMinutes = Math.floor(RunDateM % (24 * 3600 * 1000) % (3600 * 1000) / (60 * 1000));
             var RunSeconds = Math.round(RunDateM % (24 * 3600 * 1000) % (3600 * 1000) % (60 * 1000) / 1000);
             var RunTime = RunDays + "天" + RunHours + "时" + RunMinutes + "分" + RunSeconds + "秒";
-            document.getElementById(id).innerHTML = "John Tao's Nav一直在追随大家的步伐啊：" + RunTime;
+            document.getElementById(id).innerHTML = "我们已稳定运行" + RunTime;
         }
         setInterval("ShowRunTime('RunTime')", 1000);
     </script>
@@ -7887,7 +7866,6 @@
         Toast.fire({
             icon: 'success',
             title: '网页正式发布，欢迎访问',
-            text: '左下角提交网站，收录！',
             heightAuto: 'false'
         })
     </script>
