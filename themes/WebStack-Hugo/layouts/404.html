@@ -1,1 +1,63 @@
-<p>找不到页面</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>404 Not Found</title>
+<style>
+    body, html {
+        height: 100%;
+        margin: 0;
+        font-family: Arial, sans-serif;
+    }
+    .container {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        height: 100vh;
+        background: #f4f4f9;
+        color: #333;
+        flex-direction: column;
+        padding: 15px;
+        box-sizing: border-box;
+    }
+    h1 {
+        font-size: 48px;
+        margin: 0;
+    }
+    p {
+        font-size: 24px;
+        color: #666;
+    }
+    a {
+        display: inline-block;
+        padding: 10px 25px;
+        margin-top: 20px;
+        background-color: #007bff;
+        color: white;
+        border-radius: 5px;
+        text-decoration: none;
+        transition: background-color 0.3s;
+    }
+    a:hover {
+        background-color: #0056b3;
+    }
+    @media (max-width: 600px) {
+        h1 {
+            font-size: 32px;
+        }
+        p {
+            font-size: 18px;
+        }
+    }
+</style>
+</head>
+<body>
+<div class="container">
+    <h1>404</h1>
+    <p>Oops! We can't seem to find the page you are looking for.</p>
+    <a href="/">Go Home</a>
+</div>
+</body>
+</html>
