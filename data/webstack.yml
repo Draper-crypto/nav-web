@@ -73,6 +73,10 @@
       logo: github.ico
       url: https://github.com/
       description: 最热门知名的开源网站
+    - title: Fontawesome
+      logo: font-awesome-solid.svg
+      url: https://fontawesome.com/
+      description: 图标下载
 
 - taxonomy: 网盘服务
   icon: fa fa-cloud
@@ -209,3 +213,11 @@
       url: https://www.text-to-speech.cn/
       logo: gamma.png
       description: 文本转语音
+
+- taxonomy: 实用工具
+  icon: fa-solid fa-screwdriver-wrench
+  links:
+    - title: 控制面板画画
+      url: https://patorjk.com/software/taag/#p=display&f=Big%20Money-ne&t=
+      logo: chatgpt.ico
+      description: Main Controls - *FIGlet and AOL Macro Fonts Supported*
