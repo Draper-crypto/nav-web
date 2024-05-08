@@ -5,15 +5,15 @@
     - term: 站长相关
       links:
         - title: John Tao's Home
-          logo: https://blog.johntao.top/img/face.jpg
+          logo: https://typora-img-1301299232.cos.ap-shanghai.myqcloud.com/blogimg/face.jpg
           url: https://www.johntao.top/
           description: 起始页
         - title: John Tao's Nav
-          logo: https://blog.johntao.top/img/face.jpg
+          logo: https://typora-img-1301299232.cos.ap-shanghai.myqcloud.com/blogimg/face.jpg
           url: https://nav.Johntao.top
           description: 丰富的导航站
         - title: John Tao's Blog
-          logo: https://blog.johntao.top/img/face.jpg
+          logo: https://typora-img-1301299232.cos.ap-shanghai.myqcloud.com/blogimg/face.jpg
           url: https://blog.johntao.top/
           description: 站长的博客
 
