@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>John Tao's Nav</title>
-    <link>https://nav.xazz.top/</link>
-    <description>Recent content on John Tao's Nav</description>
-    <generator>John Tao</generator>
-    <language>zh-CN</language><atom:link href="https://nav.johntao.top/index.xml" rel="self" type="application/rss+xml" />
+    <title>John Tao&#39;s Nav</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on John Tao&#39;s Nav</description>
+    <generator>Hugo</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 05 Nov 2019 19:41:12 -0500</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>about</title>
-      <link>https://nav.johntao.top/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 05 Nov 2019 19:41:12 -0500</pubDate>
-      
-      <guid>https://nav.johntao.top/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>

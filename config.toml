@@ -1,4 +1,4 @@
-baseURL               = "https://nav.xazz.top/"
+baseURL               = "https://nav.johntao.top/"
 languageCode          = "zh-CN"
 title                 = "John Tao's Nav"
 theme                 = "WebStack-Hugo"
@@ -12,7 +12,7 @@ publishDir            = "docs"					# 站点静态文件保存目录
     author        = "John Tao"
     description   = "John Tao's Nav"
     upload        = "#"  # 左侧导航栏的"网站提交"
-    about         = "https://blog.johntao.top/about/zh/"	# 左侧导航栏的"关于导航"页面(./about)
+    about         = "https://blog.johntao.top/privacy/"	# 左侧导航栏的"关于导航"页面(./about)，更变为隐私政策
     repository    = "https://github.com/Draper-crypto/"  
     enablePreLoad = true					# 网站完全打开前预加载动画
     textPreLoad   = "John Tao's Nav"				# 预加载的动画文字, 只有当enablePreLoad=true时生效
