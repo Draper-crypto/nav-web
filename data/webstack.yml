@@ -46,10 +46,6 @@
           logo: weixindushu.jpg
           url: https://weread.qq.com/
           description: 书中自有黄金屋
-        - title: 在线图书馆
-          logo: books.jpg
-          url: https://ebook.johntao.top/
-          description: IPv6站点
         - title: zlibrary
           logo: magnifying-glass-solid.svg
           url: https://zh.z-lib.gs/
@@ -78,10 +74,6 @@
       logo: icloud.jpg
       url: https://www.alipan.com/sign/in
       description: 备份无忧，整理有序
-    - title: 私有网盘
-      logo: icloud.jpg
-      url: https://icloud.foreseestudio.top/prv/login.html
-      description: IPv6站点
     - title: 资源小站
       logo: icloud.jpg
       url: https://yunpan1.cc/
@@ -136,18 +128,14 @@
     
     - term: 海外服务
       links:
-        - title: OneKey Card
-          url: https://card.onekey.so/
-          logo: bitcoin.svg
-          description: 区块链钱包
         - title: 接码平台
           url: https://sms-activate.org/
           logo: sms.ico
           description: sms手机接码服务
         - title: VPN
-          url: https://www.amazon.com/gp/registry/wishlist/26NXOU84RQ44A/ref=pdp_new_wl?language=zh_CN
+          url: https://dog.hosbbq.com/
           logo: shadowrocket.jpg
-          description: 91飞机场
+          description: SSRDOG
 
 - taxonomy: 人工智能
   icon: fas fa-robot fa-lg
@@ -160,50 +148,6 @@
       url: https://ai.newzone.top/
       logo: newzone.ico
       description: ChatGPT提示词收集
-    - title: 秘塔
-      url: https://xiezuocat.com/
-      logo: mita.ico
-      description: 秘塔写作猫，帮助文案编写
-    - title: ChatPDF
-      url: https://www.chatpdf.com/
-      logo: chatpdf.ico
-      description: Ai识别PDF内容并且发起对话
-    - title: Huggingface
-      url: https://huggingface.co/spaces/stabilityai/stable-diffusion
-      logo: hugging.svg
-      description: stable-diffusion-webui-2.1
-    - title: Webui-colab
-      url: https://github.com/camenduru/stable-diffusion-webui-colab
-      logo: gamma.png
-      description: stable-diffusion-webui谷歌云部署
-    - title: Civitai
-      url: https://civitai.com/
-      logo: civitai.ico
-      description: Ai绘画训练模型
-    - title: BibiGPT
-      url: https://b.jimmylv.cn/
-      logo: gamma.png
-      description: Ai一键总结视频内容
-    - title: 图片放大
-      url: https://bigjpg.com/
-      logo: gamma.png
-      description: Ai智能图片放大
-    - title: 高清修复
-      url: https://jpghd.com/
-      logo: jpghd.ico
-      description: Ai高清修复图片
-    - title: Mindshow
-      url: https://mindshow.fun/
-      logo: gamma.png
-      description: 导入markdown结合chatgpt写作PPT
-    - title: lalal
-      url: https://www.lalal.ai/
-      logo: gamma.png
-      description: 智能人声与音乐分离
-    - title: Booltool
-      url: https://booltool.boolv.tech/
-      logo: gamma.png
-      description: 智能处理图像/视频处理
     - title: TTS-文本转语音
       url: https://www.text-to-speech.cn/
       logo: gamma.png
